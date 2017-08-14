@@ -1,0 +1,114 @@
+2017-08-14 20:35:58,061 [main] INFO fbtest - logger created Sucessfully
+2017-08-14 20:36:09,982 [main] INFO fbtest - browser got opened
+2017-08-14 20:36:10,046 [main] INFO fbtest - login class imported from objets
+2017-08-14 20:36:10,049 [main] INFO fbtest - exceldrivin class imported from resources
+2017-08-14 20:36:11,693 [main] INFO fbtest - data received from excel sheet
+2017-08-14 20:36:12,042 [main] INFO fbtest - Username entered
+2017-08-14 20:36:12,309 [main] INFO fbtest - password entered
+2017-08-14 20:36:16,637 [main] INFO fbtest - login button clicked
+2017-08-14 20:36:18,069 [main] INFO fbtest - facebook home button clicked
+2017-08-14 20:36:18,408 [main] INFO fbtest - Username entered
+2017-08-14 20:36:18,679 [main] INFO fbtest - password entered
+2017-08-14 20:36:23,718 [main] INFO fbtest - login button clicked
+2017-08-14 20:36:25,128 [main] INFO fbtest - facebook home button clicked
+2017-08-14 20:36:25,449 [main] INFO fbtest - Username entered
+2017-08-14 20:36:25,700 [main] INFO fbtest - password entered
+2017-08-14 20:36:29,899 [main] INFO fbtest - login button clicked
+2017-08-14 20:36:31,265 [main] INFO fbtest - facebook home button clicked
+2017-08-14 20:36:31,267 [main] INFO fbtest - browser closed
+2017-08-14 20:39:00,583 [main] INFO fbtest - logger created Sucessfully
+2017-08-14 20:39:00,594 [main] INFO fbtest - browser got opened
+2017-08-14 20:39:00,651 [main] INFO fbtest - login class imported from objets
+2017-08-14 20:39:00,654 [main] INFO fbtest - exceldrivin class imported from resources
+2017-08-14 20:39:02,406 [main] INFO fbtest - data received from excel sheet
+2017-08-14 20:39:02,728 [main] INFO fbtest - Username entered
+2017-08-14 20:39:03,016 [main] INFO fbtest - password entered
+2017-08-14 20:39:06,396 [main] INFO fbtest - login button clicked
+2017-08-14 20:39:07,953 [main] INFO fbtest - facebook home button clicked
+2017-08-14 20:39:08,293 [main] INFO fbtest - Username entered
+2017-08-14 20:39:08,545 [main] INFO fbtest - password entered
+2017-08-14 20:39:12,459 [main] INFO fbtest - login button clicked
+2017-08-14 20:39:14,147 [main] INFO fbtest - facebook home button clicked
+2017-08-14 20:39:14,535 [main] INFO fbtest - Username entered
+2017-08-14 20:39:14,815 [main] INFO fbtest - password entered
+2017-08-14 20:39:18,646 [main] INFO fbtest - login button clicked
+2017-08-14 20:39:20,045 [main] INFO fbtest - facebook home button clicked
+2017-08-14 20:39:20,046 [main] INFO fbtest - browser closed
+2017-08-14 20:45:15,790 [main] INFO fbtest - logger created Sucessfully
+2017-08-14 20:45:15,800 [main] INFO fbtest - browser got opened
+2017-08-14 20:45:15,869 [main] INFO fbtest - login class imported from objets
+2017-08-14 20:45:15,874 [main] INFO fbtest - exceldrivin class imported from resources
+2017-08-14 20:45:17,699 [main] INFO fbtest - data received from excel sheet
+2017-08-14 20:45:18,089 [main] INFO fbtest - Username entered
+2017-08-14 20:45:18,420 [main] INFO fbtest - password entered
+2017-08-14 20:46:34,807 [main] INFO fbtest - logger created Sucessfully
+2017-08-14 20:46:34,818 [main] INFO fbtest - browser got opened
+2017-08-14 20:46:34,888 [main] INFO fbtest - login class imported from objets
+2017-08-14 20:46:34,891 [main] INFO fbtest - exceldrivin class imported from resources
+2017-08-14 20:46:36,713 [main] INFO fbtest - data received from excel sheet
+2017-08-14 20:46:37,113 [main] INFO fbtest - Username entered
+2017-08-14 20:46:37,406 [main] INFO fbtest - password entered
+2017-08-14 21:08:04,533 [main] INFO fbtest - logger created Sucessfully
+2017-08-14 21:08:04,592 [main] INFO fbtest - browser got opened
+2017-08-14 21:08:04,677 [main] INFO fbtest - login class imported from objets
+2017-08-14 21:08:04,695 [main] INFO fbtest - exceldrivin class imported from resources
+2017-08-14 21:08:08,463 [main] INFO fbtest - data received from excel sheet
+2017-08-14 21:08:09,166 [main] INFO fbtest - Username entered
+2017-08-14 21:08:09,447 [main] INFO fbtest - password entered
+2017-08-14 21:11:50,548 [main] INFO fbtest - logger created Sucessfully
+2017-08-14 21:11:50,558 [main] INFO fbtest - browser got opened
+2017-08-14 21:11:50,619 [main] INFO fbtest - login class imported from objets
+2017-08-14 21:11:50,622 [main] INFO fbtest - exceldrivin class imported from resources
+2017-08-14 21:11:52,286 [main] INFO fbtest - data received from excel sheet
+2017-08-14 21:11:52,641 [main] INFO fbtest - Username entered
+2017-08-14 21:11:52,929 [main] INFO fbtest - password entered
+2017-08-14 21:19:19,707 [main] INFO fbtest - logger created Sucessfully
+2017-08-14 21:19:19,724 [main] INFO fbtest - browser got opened
+2017-08-14 21:19:19,827 [main] INFO fbtest - login class imported from objets
+2017-08-14 21:19:19,829 [main] INFO fbtest - exceldrivin class imported from resources
+2017-08-14 21:19:21,469 [main] INFO fbtest - data received from excel sheet
+2017-08-14 21:19:21,799 [main] INFO fbtest - Username entered
+2017-08-14 21:19:22,059 [main] INFO fbtest - password entered
+2017-08-14 21:24:55,417 [main] INFO fbtest - logger created Sucessfully
+2017-08-14 21:24:55,426 [main] INFO fbtest - browser got opened
+2017-08-14 21:24:55,484 [main] INFO fbtest - login class imported from objets
+2017-08-14 21:24:55,486 [main] INFO fbtest - exceldrivin class imported from resources
+2017-08-14 21:24:57,222 [main] INFO fbtest - data received from excel sheet
+2017-08-14 21:24:57,581 [main] INFO fbtest - Username entered
+2017-08-14 21:24:57,876 [main] INFO fbtest - password entered
+2017-08-14 21:28:31,406 [main] INFO fbtest - logger created Sucessfully
+2017-08-14 21:28:31,415 [main] INFO fbtest - browser got opened
+2017-08-14 21:28:31,471 [main] INFO fbtest - login class imported from objets
+2017-08-14 21:28:31,474 [main] INFO fbtest - exceldrivin class imported from resources
+2017-08-14 21:28:33,188 [main] INFO fbtest - data received from excel sheet
+2017-08-14 21:28:33,503 [main] INFO fbtest - Username entered
+2017-08-14 21:28:33,776 [main] INFO fbtest - password entered
+2017-08-14 21:28:37,771 [main] INFO fbtest - login button clicked
+2017-08-14 21:28:39,563 [main] INFO fbtest - facebook home button clicked
+2017-08-14 21:28:39,910 [main] INFO fbtest - Username entered
+2017-08-14 21:28:40,148 [main] INFO fbtest - password entered
+2017-08-14 21:28:42,888 [main] INFO fbtest - login button clicked
+2017-08-14 21:28:44,956 [main] INFO fbtest - facebook home button clicked
+2017-08-14 21:28:45,284 [main] INFO fbtest - Username entered
+2017-08-14 21:28:45,538 [main] INFO fbtest - password entered
+2017-08-14 21:28:49,816 [main] INFO fbtest - login button clicked
+2017-08-14 21:28:51,259 [main] INFO fbtest - facebook home button clicked
+2017-08-14 21:28:51,260 [main] INFO fbtest - browser closed
+2017-08-14 21:29:54,856 [main] INFO fbtest - logger created Sucessfully
+2017-08-14 21:29:54,866 [main] INFO fbtest - browser got opened
+2017-08-14 21:29:54,923 [main] INFO fbtest - login class imported from objets
+2017-08-14 21:29:54,925 [main] INFO fbtest - exceldrivin class imported from resources
+2017-08-14 21:29:56,538 [main] INFO fbtest - data received from excel sheet
+2017-08-14 21:29:56,867 [main] INFO fbtest - Username entered
+2017-08-14 21:29:57,136 [main] INFO fbtest - password entered
+2017-08-14 21:30:00,903 [main] INFO fbtest - login button clicked
+2017-08-14 21:30:02,387 [main] INFO fbtest - facebook home button clicked
+2017-08-14 21:30:02,722 [main] INFO fbtest - Username entered
+2017-08-14 21:30:02,960 [main] INFO fbtest - password entered
+2017-08-14 21:30:07,048 [main] INFO fbtest - login button clicked
+2017-08-14 21:30:08,465 [main] INFO fbtest - facebook home button clicked
+2017-08-14 21:30:08,814 [main] INFO fbtest - Username entered
+2017-08-14 21:30:09,066 [main] INFO fbtest - password entered
+2017-08-14 21:30:18,949 [main] INFO fbtest - login button clicked
+2017-08-14 21:30:20,338 [main] INFO fbtest - facebook home button clicked
+2017-08-14 21:30:20,339 [main] INFO fbtest - browser closed
