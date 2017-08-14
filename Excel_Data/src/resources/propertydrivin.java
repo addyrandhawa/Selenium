@@ -1,10 +1,14 @@
 package resources;
 
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -18,7 +22,7 @@ public class propertydrivin {
 		FileInputStream fis=new FileInputStream("C:\\Users\\Gagan Randhawa\\eclipse-workspace\\Excel_Data\\src\\resources\\data.properties");
 		prop.load(fis);
 		
-		 if (prop.getProperty("browser").equals("chrome"))
+		 if (prop.getProperty("browser").contains("chrome"))
 		    {
 		    	System.setProperty("webdriver.chrome.driver", "c:/chromedriver.exe");
 		    	driver= new ChromeDriver();
@@ -32,8 +36,14 @@ public class propertydrivin {
 		    
 		    driver.get(prop.getProperty("url"));
 		    driver.manage().window().maximize();
-		    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		    driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
 	}
-
+public void getscreenshot(String result) throws IOException {
+		
+		File src=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+		FileUtils.copyFileToDirectory(src, new File("C:\\Users\\Gagan Randhawa\\eclipse-workspace\\Excel_Data\\.log\\"+result+"ss.png"));
+			
+	}
+	
 	
 }

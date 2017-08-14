@@ -1,11 +1,18 @@
 package tests;
 
+import java.io.File;
+import java.io.IOException;
+
+import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
 
 import objects.signup;
@@ -29,14 +36,12 @@ public class utest extends propertydrivin {
 		
 		exceldrive d =new exceldrive();
 		
-		String firstname=exceldrive.getCelldata(0, 0);
-		String lastname=exceldrive.getCelldata1(1, 0);
-		String email=exceldrive.getCelldata2(2, 0);
-		String username=exceldrive.getCelldata3(3, 0);
-		String password=exceldrive.getCelldata4(4, 0);
-		String rpassword=exceldrive.getCelldata5(5, 0);
-		String dob=exceldrive.getCelldata6(6, 0);
-		String zipcode=exceldrive.getCelldata6(7, 0);
+		String firstname=exceldrive.getCelldata(0);
+		String lastname=exceldrive.getCelldata(1);
+		String email=exceldrive.getCelldata(2);
+		String username=exceldrive.getCelldata(3);
+		String password=exceldrive.getCelldata(4);
+		String rpassword=exceldrive.getCelldata(4);
 		
 		
 		//Filling The Signup Form
@@ -66,12 +71,13 @@ public class utest extends propertydrivin {
 		log.info("again password filled");
 		
 		//Actions a=new Actions(driver);
-		//WebElement ac=s.gender();
+		WebElement ac=s.gender();
 		//WebElement ml=s.male();
 		//a.moveToElement(ac).build().perform();
 		//a.moveToElement(ml).build().perform();*/
-		//Select sc=new Select(ac);
-		//sc.selectByIndex(0);
+		/*
+		Select sc=new Select(ac);
+		sc.selectByIndex(0);
 		log.info("gender selected");
 		
 		
@@ -93,15 +99,13 @@ public class utest extends propertydrivin {
 		
 		s.nextbutton().click();
 		log.info(" next button clicked");
-		
-		
-		
-	
-	driver.close();
-	
+		*/
 	}
 	
-	
+	@AfterMethod
+	public void close() {
+		driver.close();
+	}
 	
 	
 }

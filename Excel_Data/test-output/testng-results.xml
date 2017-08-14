@@ -2,15 +2,19 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="66120" started-at="2017-08-12T20:45:05Z" finished-at="2017-08-12T20:46:11Z">
+  <suite name="Default suite" duration-ms="69948" started-at="2017-08-14T19:29:47Z" finished-at="2017-08-14T19:30:57Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="66120" started-at="2017-08-12T20:45:05Z" finished-at="2017-08-12T20:46:11Z">
+    <test name="Default test" duration-ms="69948" started-at="2017-08-14T19:29:47Z" finished-at="2017-08-14T19:30:57Z">
       <class name="tests.utest">
-        <test-method status="PASS" signature="home()[pri:0, instance:tests.utest@36d4b5c]" name="home" duration-ms="66054" started-at="2017-08-13T02:15:05Z" finished-at="2017-08-13T02:16:11Z">
+        <test-method status="PASS" signature="home()[pri:0, instance:tests.utest@4520ebad]" name="home" duration-ms="69652" started-at="2017-08-15T00:59:47Z" finished-at="2017-08-15T01:00:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- home -->
+        <test-method status="PASS" signature="close()[pri:0, instance:tests.utest@4520ebad]" name="close" is-config="true" duration-ms="238" started-at="2017-08-15T01:00:57Z" finished-at="2017-08-15T01:00:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
       </class> <!-- tests.utest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

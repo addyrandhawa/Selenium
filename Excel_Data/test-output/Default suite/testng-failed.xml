@@ -6,6 +6,7 @@
       <class name="tests.utest">
         <methods>
           <include name="home"/>
+          <include name="close"/>
         </methods>
       </class> <!-- tests.utest -->
     </classes>

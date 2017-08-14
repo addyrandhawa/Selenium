@@ -111,3 +111,100 @@
 2017-08-13 02:16:05,917 [main] INFO utest - dob filled
 2017-08-13 02:16:06,403 [main] INFO utest - zipcode filled
 2017-08-13 02:16:11,708 [main] INFO utest -  next button clicked
+2017-08-13 03:39:04,179 [main] INFO utest - signup button clicked
+2017-08-13 03:39:10,952 [main] INFO utest - firstname filled
+2017-08-13 03:39:12,249 [main] INFO utest - lastname filled
+2017-08-13 03:39:14,775 [main] INFO utest - email filled
+2017-08-13 03:39:16,121 [main] INFO utest - username filled
+2017-08-13 03:39:17,664 [main] INFO utest - password filled
+2017-08-13 03:39:20,016 [main] INFO utest - again password filled
+2017-08-13 03:39:20,017 [main] INFO utest - gender selected
+2017-08-13 03:39:21,442 [main] INFO utest - dob filled
+2017-08-13 03:39:22,762 [main] INFO utest - zipcode filled
+2017-08-13 03:39:23,753 [main] INFO utest -  next button clicked
+2017-08-13 04:25:19,046 [main] INFO utest - signup button clicked
+2017-08-13 04:25:23,683 [main] INFO utest - firstname filled
+2017-08-13 04:25:24,251 [main] INFO utest - lastname filled
+2017-08-13 04:25:25,478 [main] INFO utest - email filled
+2017-08-13 04:25:26,154 [main] INFO utest - username filled
+2017-08-13 04:25:26,792 [main] INFO utest - password filled
+2017-08-13 04:25:27,657 [main] INFO utest - again password filled
+2017-08-13 04:25:27,659 [main] INFO utest - gender selected
+2017-08-13 04:25:28,236 [main] INFO utest - dob filled
+2017-08-13 04:25:28,932 [main] INFO utest - zipcode filled
+2017-08-13 04:25:29,378 [main] INFO utest -  next button clicked
+2017-08-13 04:27:47,525 [main] INFO utest - signup button clicked
+2017-08-13 04:27:49,880 [main] INFO utest - firstname filled
+2017-08-13 04:27:50,424 [main] INFO utest - lastname filled
+2017-08-13 04:27:51,019 [main] INFO utest - email filled
+2017-08-13 04:27:51,393 [main] INFO utest - username filled
+2017-08-13 04:27:51,829 [main] INFO utest - password filled
+2017-08-13 04:27:52,280 [main] INFO utest - again password filled
+2017-08-13 04:27:52,281 [main] INFO utest - gender selected
+2017-08-13 04:27:52,760 [main] INFO utest - dob filled
+2017-08-13 04:27:53,273 [main] INFO utest - zipcode filled
+2017-08-13 04:27:53,675 [main] INFO utest -  next button clicked
+2017-08-13 04:55:35,433 [main] INFO utest - signup button clicked
+2017-08-13 04:55:37,916 [main] INFO utest - firstname filled
+2017-08-13 04:55:38,291 [main] INFO utest - lastname filled
+2017-08-13 04:55:38,895 [main] INFO utest - email filled
+2017-08-13 04:55:39,237 [main] INFO utest - username filled
+2017-08-13 04:55:39,665 [main] INFO utest - password filled
+2017-08-13 04:55:40,072 [main] INFO utest - again password filled
+2017-08-13 04:55:40,073 [main] INFO utest - gender selected
+2017-08-13 04:55:40,566 [main] INFO utest - dob filled
+2017-08-13 04:55:41,002 [main] INFO utest - zipcode filled
+2017-08-13 04:55:41,297 [main] INFO utest -  next button clicked
+2017-08-13 05:07:10,610 [main] INFO utest - signup button clicked
+2017-08-13 05:07:14,374 [main] INFO utest - firstname filled
+2017-08-13 05:07:14,794 [main] INFO utest - lastname filled
+2017-08-13 05:07:15,489 [main] INFO utest - email filled
+2017-08-13 05:07:15,927 [main] INFO utest - username filled
+2017-08-13 05:07:16,715 [main] INFO utest - password filled
+2017-08-13 05:07:17,273 [main] INFO utest - again password filled
+2017-08-13 05:07:17,274 [main] INFO utest - gender selected
+2017-08-13 05:07:17,875 [main] INFO utest - dob filled
+2017-08-13 05:07:18,465 [main] INFO utest - zipcode filled
+2017-08-13 05:07:18,984 [main] INFO utest -  next button clicked
+2017-08-13 05:14:52,059 [main] INFO utest - signup button clicked
+2017-08-13 05:14:54,267 [main] INFO utest - firstname filled
+2017-08-13 05:14:54,663 [main] INFO utest - lastname filled
+2017-08-13 05:14:55,322 [main] INFO utest - email filled
+2017-08-13 05:14:55,677 [main] INFO utest - username filled
+2017-08-13 05:14:56,337 [main] INFO utest - password filled
+2017-08-13 05:14:56,724 [main] INFO utest - again password filled
+2017-08-13 05:30:46,853 [main] INFO utest - signup button clicked
+2017-08-13 05:30:49,302 [main] INFO utest - firstname filled
+2017-08-13 05:30:49,682 [main] INFO utest - lastname filled
+2017-08-13 05:30:50,207 [main] INFO utest - email filled
+2017-08-13 05:30:50,542 [main] INFO utest - username filled
+2017-08-13 05:30:50,969 [main] INFO utest - password filled
+2017-08-13 05:30:51,377 [main] INFO utest - again password filled
+2017-08-13 05:33:52,945 [main] INFO utest - signup button clicked
+2017-08-13 05:33:55,336 [main] INFO utest - firstname filled
+2017-08-13 05:33:55,744 [main] INFO utest - lastname filled
+2017-08-13 05:33:56,275 [main] INFO utest - email filled
+2017-08-13 05:33:56,607 [main] INFO utest - username filled
+2017-08-13 05:33:57,036 [main] INFO utest - password filled
+2017-08-13 05:33:57,436 [main] INFO utest - again password filled
+2017-08-13 05:34:53,196 [main] INFO utest - signup button clicked
+2017-08-13 05:34:55,739 [main] INFO utest - firstname filled
+2017-08-13 05:34:56,095 [main] INFO utest - lastname filled
+2017-08-13 05:34:56,625 [main] INFO utest - email filled
+2017-08-13 05:34:56,958 [main] INFO utest - username filled
+2017-08-13 05:34:57,445 [main] INFO utest - password filled
+2017-08-13 05:34:57,860 [main] INFO utest - again password filled
+2017-08-15 00:59:15,497 [main] INFO utest - signup button clicked
+2017-08-15 00:59:18,190 [main] INFO utest - firstname filled
+2017-08-15 00:59:18,588 [main] INFO utest - lastname filled
+2017-08-15 00:59:19,107 [main] INFO utest - email filled
+2017-08-15 00:59:19,411 [main] INFO utest - username filled
+2017-08-15 00:59:19,843 [main] INFO utest - password filled
+2017-08-15 00:59:20,246 [main] INFO utest - again password filled
+2017-08-15 01:00:52,233 [main] INFO utest - signup button clicked
+2017-08-15 01:00:54,545 [main] INFO utest - firstname filled
+2017-08-15 01:00:54,913 [main] INFO utest - lastname filled
+2017-08-15 01:00:55,456 [main] INFO utest - email filled
+2017-08-15 01:00:55,776 [main] INFO utest - username filled
+2017-08-15 01:00:56,594 [main] INFO utest - password filled
+2017-08-15 01:00:56,998 [main] INFO utest - again password filled
